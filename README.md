@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and GitHub together
+This is a simple website project for showing how to use Git and GitHub together.
+ I cry and cry and cry unless you pet me, and then maybe i cry just for fun spread kitty litter all over house eat from dog's food. Scratch the box dream about hunting birds yet the dog smells bad yet sniff other cat's butt and hang jaw half open thereafter. Pee in the shoe rub face on everything attack the dog then pretend like nothing happened, for fall over dead (not really but gets sypathy) cat dog hate mouse eat string barf pillow no baths hate everything so lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back. 
 
 ## Introduction
 
