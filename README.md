@@ -23,4 +23,4 @@ Please fork this repository and then issue PULL REquests for review.
 
 ### Copyright
 
-Copyright 2014 Git.Training
+Copyright 2014 Git.Training All Rights Reserved
